@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\Documents\\CSharp-PetShopManagementV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44892C-0B18-4CDB-BBBC-D394DC87405C}|PetShopManagement\\PetShopManagement.csproj|C:\\Users\\admin\\OneDrive\\Documents\\CSharp-PetShopManagementV2\\petshopmanagement\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC44892C-0B18-4CDB-BBBC-D394DC87405C}|PetShopManagement\\PetShopManagement.csproj|solutionrelative:petshopmanagement\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44892C-0B18-4CDB-BBBC-D394DC87405C}|PetShopManagement\\PetShopManagement.csproj|C:\\Users\\admin\\OneDrive\\Documents\\CSharp-PetShopManagementV2\\petshopmanagement\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC44892C-0B18-4CDB-BBBC-D394DC87405C}|PetShopManagement\\PetShopManagement.csproj|solutionrelative:petshopmanagement\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44892C-0B18-4CDB-BBBC-D394DC87405C}|PetShopManagement\\PetShopManagement.csproj|C:\\Users\\admin\\OneDrive\\Documents\\CSharp-PetShopManagementV2\\petshopmanagement\\billings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC44892C-0B18-4CDB-BBBC-D394DC87405C}|PetShopManagement\\PetShopManagement.csproj|solutionrelative:petshopmanagement\\billings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44892C-0B18-4CDB-BBBC-D394DC87405C}|PetShopManagement\\PetShopManagement.csproj|C:\\Users\\admin\\OneDrive\\Documents\\CSharp-PetShopManagementV2\\petshopmanagement\\billings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC44892C-0B18-4CDB-BBBC-D394DC87405C}|PetShopManagement\\PetShopManagement.csproj|solutionrelative:petshopmanagement\\billings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44892C-0B18-4CDB-BBBC-D394DC87405C}|PetShopManagement\\PetShopManagement.csproj|C:\\Users\\admin\\OneDrive\\Documents\\CSharp-PetShopManagementV2\\petshopmanagement\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC44892C-0B18-4CDB-BBBC-D394DC87405C}|PetShopManagement\\PetShopManagement.csproj|solutionrelative:petshopmanagement\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\CSharp-PetShopManagementV2\\PetShopManagement\\Employees.cs",
+              "RelativeDocumentMoniker": "PetShopManagement\\Employees.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\CSharp-PetShopManagementV2\\PetShopManagement\\Employees.cs",
+              "RelativeToolTip": "PetShopManagement\\Employees.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwCYAAACWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:55:50.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employees.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\CSharp-PetShopManagementV2\\PetShopManagement\\Employees.cs",
+              "RelativeDocumentMoniker": "PetShopManagement\\Employees.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\CSharp-PetShopManagementV2\\PetShopManagement\\Employees.cs [Design]",
+              "RelativeToolTip": "PetShopManagement\\Employees.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:55:45.376Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Billings.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\CSharp-PetShopManagementV2\\PetShopManagement\\Billings.cs",
+              "RelativeDocumentMoniker": "PetShopManagement\\Billings.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\CSharp-PetShopManagementV2\\PetShopManagement\\Billings.cs",
+              "RelativeToolTip": "PetShopManagement\\Billings.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:23:42.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Billings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\CSharp-PetShopManagementV2\\PetShopManagement\\Billings.cs",
+              "RelativeDocumentMoniker": "PetShopManagement\\Billings.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\CSharp-PetShopManagementV2\\PetShopManagement\\Billings.cs [Design]",
+              "RelativeToolTip": "PetShopManagement\\Billings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:23:38.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\CSharp-PetShopManagementV2\\PetShopManagement\\Login.cs",
+              "RelativeDocumentMoniker": "PetShopManagement\\Login.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\CSharp-PetShopManagementV2\\PetShopManagement\\Login.cs [Design]",
+              "RelativeToolTip": "PetShopManagement\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:21:59.096Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
